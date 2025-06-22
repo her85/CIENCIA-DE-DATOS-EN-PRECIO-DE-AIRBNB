@@ -5,6 +5,7 @@ Proyecto educativo de ciencia de datos que analiza los precios de alojamientos e
 ## Tabla de contenidos
 - [Descripción](#descripción)
 - [Estructura del proyecto](#estructura-del-proyecto)
+- [Link del drive](#link-del-drive)
 
 ## Descripción
 Este proyecto explora y modela los factores que influyen en el precio de los alojamientos de Airbnb, presentando resultados en un notebook con análisis exploratorio, visualizaciones y conclusiones.
@@ -15,4 +16,5 @@ Este proyecto explora y modela los factores que influyen en el precio de los alo
 - `Proyecto_Final_Hernan_Botto.pdf`: Presentación o informe final en formato PDF.
 
 
-
+## Link del drive
+https://drive.google.com/drive/u/0/folders/1dvHGIjMWpIgk_ti0E_Luz5dOL-x5smwL
